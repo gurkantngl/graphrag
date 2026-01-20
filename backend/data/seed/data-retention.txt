@@ -1,0 +1,6 @@
+Title: Data Retention Policy
+Role: Data Protection Officer
+Policy: Data Retention
+Exception: Legal Hold
+Tags: privacy, retention
+Text: Customer data must be retained for 24 months unless a legal hold is active. Under legal hold, retention extends until the hold is released by legal counsel.

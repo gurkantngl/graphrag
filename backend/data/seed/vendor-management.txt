@@ -1,0 +1,6 @@
+Title: Vendor Management Policy
+Role: Procurement
+Policy: Vendor Due Diligence
+Exception: Low Risk Vendor
+Tags: compliance, vendor
+Text: All vendors must pass due diligence before onboarding. Low risk vendors may use a simplified checklist but still require annual review.

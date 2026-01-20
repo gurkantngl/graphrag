@@ -1,0 +1,6 @@
+Title: Remote Work Policy
+Role: HR
+Policy: Remote Work
+Exception: Temporary Travel
+Tags: hr, access
+Text: Remote work requires manager approval and MFA for corporate systems. Temporary travel allows short-term access without standard onboarding, but must be approved within 48 hours.

@@ -1,0 +1,6 @@
+Title: Access Control Policy
+Role: IT Admin
+Policy: Least Privilege Access
+Exception: Emergency Access
+Tags: security, access
+Text: All systems must enforce least privilege access. Accounts should be reviewed quarterly and revoked if inactive. Emergency access is allowed only during declared incidents and must be reviewed within 24 hours.

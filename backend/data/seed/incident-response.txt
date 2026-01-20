@@ -1,0 +1,6 @@
+Title: Incident Response Policy
+Role: Security Analyst
+Policy: Incident Response
+Exception: Critical Outage Bypass
+Tags: security, incident
+Text: Incidents must be classified within 30 minutes and escalated according to severity. During a critical outage, change approvals may be bypassed but must be documented after recovery.
